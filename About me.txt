@@ -1,0 +1,19 @@
+
+<html>
+<head>
+<title>About</title>
+</head>
+<body>
+<font face="arial"><h1><u>About Me</u></h1>
+<font face="times new roman"><b>I am FullStack Developer @ Institute of Engineering and technology</b>
+<p>Software Engineering with experience in multiple frameworks and develop programs using the latest and most appropriate technology.</p>
+<p>Gola Oriented individual possesing a never-ending thirst for learning new things. Captivated by the power of machine learning, deep learning and AI. Always inquisitive for knowledge.</p>
+<font face="arial"><center><h3>Testimonials</h3></center>
+<center><i>"Pain auctor pulvinar tellus, at venenatis ligula pharetra eu. Duis dictum nisi sed pellentesque euismod."</i></center>
+<h3><u>Services</u></h3>
+<p align="left"><img src="pic2.bmp" lenght="20%" width="20%">Web Design</p>
+<p align="center"><img src="pic3.bmp" lenght="20%" width="20%">App Developer</p>
+<p align="right"><img src="pic4.bmp" lenght="20%" width="20%">Data Analysis</p>
+<a href="iet.html">Back</a>
+</body>
+</html>

@@ -1,0 +1,18 @@
+
+<html>
+<head>
+<title>IET</title>
+</head>
+<body bgcolor="grey">
+<font face="calibri" size="1000" color="white"><center><h1>Vivank Sharma</h1></center>
+<font face="times new roman" color="white"><center><h6>Age: 19</h6></center>
+<font face="times new roman" color="white"><center><h6>Adress: VIT,VELLORE,TAMILNADU</h6></center>
+<font face="times new roman" color="white"><center><h6>E-mail: vivanksharma@ymail.com</h6></center>
+<font face="times new roman" color="white"><center><h6>Phone: +91 9905683629</h6></center>
+<font face="times new roman" color="white"><center><h6>Freelance: Available</h6></center>
+<center><img src="pic.bmp" lenght="20%" width="20%"></center>
+<h6><a href="about.html">About Me</a> 
+<br><a href="resume.html">Resume</a>
+</h6>
+</body>
+</html>
